@@ -1,4 +1,5 @@
 {
+  "author": "Nora Brown",
   "name": "intersection-observer",
   "description": "Enhancing a photo gallery with the Intersection Observer API",
   "keywords": ["javascript", "lazy load", "progressive enhancement", "intersection observer"],

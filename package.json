@@ -1,0 +1,6 @@
+{
+  "name": "intersection-observer",
+  "description": "Enhancing a photo gallery with the Intersection Observer API",
+  "keywords": ["javascript", "lazy load", "progressive enhancement", "intersection observer"],
+  "version": "1.0.0"
+}

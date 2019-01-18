@@ -20,7 +20,6 @@ figure{
   margin-bottom: 80px;
   position: relative;
   overflow: hidden;
-  transition: opacity 500ms;
 }
 figcaption{
   position: absolute;
@@ -34,12 +33,12 @@ figcaption{
   line-height: 1.2em;
   text-align: center;
   font-weight: 300;
-  transition: all 500ms;
+  transition: all 300ms;
 }
 img{
   display: block;
   max-height: 100vh;
   width: 100%;
   object-fit: contain;
-
+  transition: opacity 500ms;
 }
